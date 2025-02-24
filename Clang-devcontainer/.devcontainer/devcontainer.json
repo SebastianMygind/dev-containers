@@ -1,0 +1,5 @@
+{
+    "name" : "Clang-dev",
+    "dockerFile" : "Dockerfile",
+    "containerUser": "dev"
+}
